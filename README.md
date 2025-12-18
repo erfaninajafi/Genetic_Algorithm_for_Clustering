@@ -32,7 +32,7 @@ The project focuses on datasets with multiple features and explores how Genetic 
 
 ```text
 ├── model.ipynb        # Implementation and experiments
-├── AI_Proj6_Najafi_40113901.pdf   # Theoretical report and explanations
+├── academic_report.pdf   # Theoretical report and explanations
 ├── README.md          # Project documentation
 ├── requirements.txt
 ```
